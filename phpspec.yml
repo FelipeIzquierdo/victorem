@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Victorem
+        psr4_prefix: Victorem
+        src_path: app
